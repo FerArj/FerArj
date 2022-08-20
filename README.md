@@ -5,6 +5,7 @@
 - 🔭 I'm studying Systems Analysis and Development 
 - 🌱 I’m currently learning JavaScript and SQL
 - 😄 Pronouns: He/Him
+- 🍃 Play ukulele
 
 <div>
   <a href="https://github.com/FerArj">
