@@ -3,7 +3,7 @@
 
 
 - 🔭 I'm studying Systems Analysis and Development 
-- 🌱 I’m currently learning Javascript and SQL
+- 🌱 I’m currently learning JavaScript and SQL
 - 😄 Pronouns: He/Him
 
 <div>
