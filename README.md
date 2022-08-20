@@ -19,7 +19,7 @@
   <img align="center" alt="Fer-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fer-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fer-CSS" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="right" alt="Fer-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/741492634035683341/1010617750047174766/eu.png.png">
+  <img align="right" alt="Fer-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1005655735830597723/1010639729026412595/eu2.png">
 </div>
 
 ##
