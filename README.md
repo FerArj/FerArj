@@ -2,7 +2,7 @@
 
 <img align="center" alt="Fer-pic" heigh="50" width="1400" src="https://media.licdn.com/dms/image/D4D16AQHvGw7BhUQXAA/profile-displaybackgroundimage-shrink_350_1400/0/1677443106197?e=1684368000&v=beta&t=dRRHYNmoCGuln5TfZTXKl2tX4C4AKQvB6sZMLhmueWk">
 
-- 🔭 I'm studying Systems Analysis and Development 
+- 🔭 Programming student
 - 🌱 I'm currently learning Java and React
 - 😄 Pronouns: He/Him
 
