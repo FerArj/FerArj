@@ -20,6 +20,7 @@
   <img align="center" alt="Fer-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Fer-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Fer-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Fer-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="right" alt="Fer-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1005655735830597723/1010644531328340139/foto_definitiva.png">
 </div>
   
