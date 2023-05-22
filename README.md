@@ -21,7 +21,7 @@
   <img align="center" alt="Fer-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Fer-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Fer-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="right" alt="Fer-pic" height="150" style="border-radius:50px;" src="https://media3.giphy.com/media/oifKB3IrjgeRZzZzrY/200w.gif?cid=6c09b952no1dgwumjbk4nj2fieqalaboppa8g5rbyb8dbj3j&ep=v1_gifs_search&rid=200w.gif&ct=s">
+  <img align="right" alt="Fer-pic" height="150" style="border-radius:50px;" src="https://i.gifer.com/origin/d5/d5b88b45655b89b33ff6d1dc2df982ff_w200.gif">
 </div>
   
   ##
