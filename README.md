@@ -6,7 +6,6 @@
 - 🌱 I'm currently learning Java and React
 - 😄 Pronouns: He/Him
 
-<h1>Tecnologias que já tive contato</h1>
 <div align="center">
   <a href="https://github.com/FerArj">
 </div>
