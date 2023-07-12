@@ -26,11 +26,10 @@
   <img align="right" alt="Fer-pic" height="150" style="border-radius:50px;" src="https://i.gifer.com/origin/d5/d5b88b45655b89b33ff6d1dc2df982ff_w200.gif">
 </div>
 
-# 📊 GitHub Stats:
+##
 <div style="display: flex">
-  
-![](https://github-readme-streak-stats.herokuapp.com/?user=FerArj&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FerArj&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
@@ -42,8 +41,6 @@
 </div>
 
 ##
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FerArj&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 [![](https://visitcount.itsvg.in/api?id=FerArj&icon=0&color=11)](https://visitcount.itsvg.in)
