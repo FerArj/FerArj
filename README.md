@@ -31,6 +31,9 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FerArj&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 </div>
 
 ##
@@ -40,7 +43,5 @@
    <a href="https://linkedin.com/in/fernando-caetano-de-araújo-0a9511234" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-##
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FerArj&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 [![](https://visitcount.itsvg.in/api?id=FerArj&icon=0&color=11)](https://visitcount.itsvg.in)
