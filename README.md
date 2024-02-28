@@ -26,7 +26,7 @@
   <img align="center" alt="Fer-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Fer-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   
-  <img align="right" alt="Fer-pic" height="150" style="border-radius:50px;" src="https://i.gifer.com/origin/d5/d5b88b45655b89b33ff6d1dc2df982ff_w200.gif">
+  <img align="right" alt="Fer-pic" style="border-radius:50px; height:150px" src="https://i.pinimg.com/originals/a7/a8/d0/a7a8d06c754cfbbbc37e64cb118c513c.gif">
 </div>
 
 ##
