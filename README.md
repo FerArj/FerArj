@@ -13,11 +13,6 @@
 </p>
 
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FerArj&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerArj&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
-<p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
